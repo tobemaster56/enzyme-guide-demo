@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shadow should shadow render 1`] = `
+<div
+  class="App"
+>
+  <header
+    class="App-header"
+  >
+    <img
+      alt="logo"
+      class="App-logo"
+      src=""
+    />
+    <h1>
+      Welcome to React
+    </h1>
+    <p>
+      Edit 
+      <code>
+        src/App.tsx
+      </code>
+       and save to reload.
+    </p>
+    <a
+      class="App-link"
+      href="https://reactjs.org"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Learn React
+    </a>
+  </header>
+  <div>
+    Hello, Child!
+  </div>
+</div>
+`;
